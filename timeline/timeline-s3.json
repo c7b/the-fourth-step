@@ -1,0 +1,561 @@
+{
+ "piece": "s3",
+ "version": "v4",
+ "fps": 30,
+ "total": 42.8,
+ "voice": "George",
+ "went": false,
+ "notes": [
+  "v4: S3A, S3B, S3F new (hook = Kim 36C3 31:44); S3C, S3D, S3E are the v3 clips."
+ ],
+ "beats": [
+  {
+   "id": "S3A",
+   "start": 0,
+   "vo": "s3a",
+   "voStart": 0.15,
+   "voEnd": 5.97,
+   "words": [
+    {
+     "text": "They",
+     "start": 0.23,
+     "end": 0.35
+    },
+    {
+     "text": "have",
+     "start": 0.41,
+     "end": 0.63
+    },
+    {
+     "text": "no",
+     "start": 0.73,
+     "end": 0.87
+    },
+    {
+     "text": "memory",
+     "start": 1.05,
+     "end": 1.51
+    },
+    {
+     "text": "of",
+     "start": 1.87,
+     "end": 1.99
+    },
+    {
+     "text": "where",
+     "start": 2.03,
+     "end": 2.17
+    },
+    {
+     "text": "they've",
+     "start": 2.19,
+     "end": 2.41
+    },
+    {
+     "text": "been,",
+     "start": 2.47,
+     "end": 2.81
+    },
+    {
+     "text": "which",
+     "start": 3.41,
+     "end": 3.55
+    },
+    {
+     "text": "is",
+     "start": 3.61,
+     "end": 3.75
+    },
+    {
+     "text": "really",
+     "start": 3.83,
+     "end": 4.23
+    },
+    {
+     "text": "what",
+     "start": 4.63,
+     "end": 4.75
+    },
+    {
+     "text": "you",
+     "start": 4.81,
+     "end": 4.93
+    },
+    {
+     "text": "want",
+     "start": 4.99,
+     "end": 5.25
+    },
+    {
+     "text": "in",
+     "start": 5.29,
+     "end": 5.35
+    },
+    {
+     "text": "a",
+     "start": 5.39,
+     "end": 5.45
+    },
+    {
+     "text": "money.",
+     "start": 5.51,
+     "end": 5.81
+    }
+   ],
+   "end": 6.37,
+   "note": "new hook: Kim 36C3 31:44 \"They have no memory of where they've been, which is really what you want in a money.\""
+  },
+  {
+   "id": "S3B",
+   "start": 6.37,
+   "vo": "s3b",
+   "voStart": 6.57,
+   "voEnd": 11.62,
+   "words": [
+    {
+     "text": "That's",
+     "start": 6.65,
+     "end": 6.93
+    },
+    {
+     "text": "Dr.",
+     "start": 6.97,
+     "end": 7.03
+    },
+    {
+     "text": "Daniel",
+     "start": 7.33,
+     "end": 7.65
+    },
+    {
+     "text": "Kim,",
+     "start": 7.79,
+     "end": 8.13
+    },
+    {
+     "text": "in",
+     "start": 8.41,
+     "end": 8.53
+    },
+    {
+     "text": "2019,",
+     "start": 8.65,
+     "end": 9.45
+    },
+    {
+     "text": "talking",
+     "start": 9.79,
+     "end": 10.09
+    },
+    {
+     "text": "about",
+     "start": 10.15,
+     "end": 10.41
+    },
+    {
+     "text": "Monero",
+     "start": 10.45,
+     "end": 10.89
+    },
+    {
+     "text": "coins.",
+     "start": 11.01,
+     "end": 11.45
+    }
+   ],
+   "end": 11.92,
+   "note": "new VO: names Kim once, says 'they' = Monero coins"
+  },
+  {
+   "id": "S3C",
+   "start": 11.92,
+   "vo": "s3c",
+   "voStart": 12.17,
+   "voEnd": 18.73,
+   "words": [
+    {
+     "text": "Bitcoin",
+     "start": 12.25,
+     "end": 12.73
+    },
+    {
+     "text": "is",
+     "start": 12.77,
+     "end": 12.89
+    },
+    {
+     "text": "like",
+     "start": 12.93,
+     "end": 13.07
+    },
+    {
+     "text": "a",
+     "start": 13.11,
+     "end": 13.21
+    },
+    {
+     "text": "banknote",
+     "start": 13.25,
+     "end": 13.81
+    },
+    {
+     "text": "with",
+     "start": 14.03,
+     "end": 14.19
+    },
+    {
+     "text": "every",
+     "start": 14.27,
+     "end": 14.47
+    },
+    {
+     "text": "past",
+     "start": 14.59,
+     "end": 14.89
+    },
+    {
+     "text": "owner",
+     "start": 15.05,
+     "end": 15.31
+    },
+    {
+     "text": "written",
+     "start": 15.39,
+     "end": 15.63
+    },
+    {
+     "text": "on",
+     "start": 15.69,
+     "end": 15.77
+    },
+    {
+     "text": "the",
+     "start": 15.81,
+     "end": 15.89
+    },
+    {
+     "text": "back.",
+     "start": 15.93,
+     "end": 16.29
+    },
+    {
+     "text": "Anyone",
+     "start": 16.83,
+     "end": 17.19
+    },
+    {
+     "text": "can",
+     "start": 17.27,
+     "end": 17.45
+    },
+    {
+     "text": "trace",
+     "start": 17.49,
+     "end": 17.81
+    },
+    {
+     "text": "where",
+     "start": 17.85,
+     "end": 17.97
+    },
+    {
+     "text": "it's",
+     "start": 18.01,
+     "end": 18.19
+    },
+    {
+     "text": "been.",
+     "start": 18.23,
+     "end": 18.57
+    }
+   ],
+   "end": 19.13
+  },
+  {
+   "id": "S3D",
+   "start": 19.13,
+   "vo": "s3d",
+   "voStart": 19.38,
+   "voEnd": 29.64,
+   "words": [
+    {
+     "text": "Monero",
+     "start": 19.46,
+     "end": 19.98
+    },
+    {
+     "text": "wipes",
+     "start": 20.18,
+     "end": 20.48
+    },
+    {
+     "text": "the",
+     "start": 20.54,
+     "end": 20.62
+    },
+    {
+     "text": "list.",
+     "start": 20.66,
+     "end": 21.06
+    },
+    {
+     "text": "Your",
+     "start": 21.66,
+     "end": 21.78
+    },
+    {
+     "text": "payment",
+     "start": 21.9,
+     "end": 22.24
+    },
+    {
+     "text": "hides",
+     "start": 22.38,
+     "end": 22.7
+    },
+    {
+     "text": "among",
+     "start": 22.74,
+     "end": 22.94
+    },
+    {
+     "text": "decoys,",
+     "start": 23.06,
+     "end": 23.66
+    },
+    {
+     "text": "the",
+     "start": 24.04,
+     "end": 24.1
+    },
+    {
+     "text": "amount",
+     "start": 24.16,
+     "end": 24.5
+    },
+    {
+     "text": "is",
+     "start": 24.54,
+     "end": 24.66
+    },
+    {
+     "text": "hidden,",
+     "start": 24.72,
+     "end": 24.98
+    },
+    {
+     "text": "and",
+     "start": 25.34,
+     "end": 25.44
+    },
+    {
+     "text": "the",
+     "start": 25.48,
+     "end": 25.54
+    },
+    {
+     "text": "receiver",
+     "start": 25.58,
+     "end": 26.1
+    },
+    {
+     "text": "gets",
+     "start": 26.14,
+     "end": 26.32
+    },
+    {
+     "text": "a",
+     "start": 26.38,
+     "end": 26.46
+    },
+    {
+     "text": "one-time",
+     "start": 26.56,
+     "end": 26.98
+    },
+    {
+     "text": "address.",
+     "start": 27.04,
+     "end": 27.54
+    },
+    {
+     "text": "Money",
+     "start": 28.22,
+     "end": 28.56
+    },
+    {
+     "text": "with",
+     "start": 28.62,
+     "end": 28.78
+    },
+    {
+     "text": "no",
+     "start": 28.86,
+     "end": 29
+    },
+    {
+     "text": "memory.",
+     "start": 29.1,
+     "end": 29.48
+    }
+   ],
+   "end": 30.04
+  },
+  {
+   "id": "S3E",
+   "start": 30.04,
+   "vo": "s3e",
+   "voStart": 30.34,
+   "voEnd": 34.2,
+   "words": [
+    {
+     "text": "The",
+     "start": 30.42,
+     "end": 30.52
+    },
+    {
+     "text": "catch:",
+     "start": 30.58,
+     "end": 30.96
+    },
+    {
+     "text": "Monero",
+     "start": 31.5,
+     "end": 32.04
+    },
+    {
+     "text": "is",
+     "start": 32.08,
+     "end": 32.2
+    },
+    {
+     "text": "built",
+     "start": 32.24,
+     "end": 32.46
+    },
+    {
+     "text": "for",
+     "start": 32.5,
+     "end": 32.64
+    },
+    {
+     "text": "money,",
+     "start": 32.7,
+     "end": 33.02
+    },
+    {
+     "text": "not",
+     "start": 33.36,
+     "end": 33.6
+    },
+    {
+     "text": "apps.",
+     "start": 33.72,
+     "end": 34.04
+    }
+   ],
+   "end": 34.6
+  },
+  {
+   "id": "S3F",
+   "start": 34.6,
+   "vo": "s3f",
+   "voStart": 34.9,
+   "voEnd": 41.37,
+   "words": [
+    {
+     "text": "Tari's",
+     "start": 34.97,
+     "end": 35.37
+    },
+    {
+     "text": "Ootle",
+     "start": 35.51,
+     "end": 35.83
+    },
+    {
+     "text": "goes",
+     "start": 35.95,
+     "end": 36.19
+    },
+    {
+     "text": "for",
+     "start": 36.21,
+     "end": 36.35
+    },
+    {
+     "text": "both:",
+     "start": 36.39,
+     "end": 36.77
+    },
+    {
+     "text": "apps",
+     "start": 37.33,
+     "end": 37.55
+    },
+    {
+     "text": "that",
+     "start": 37.61,
+     "end": 37.75
+    },
+    {
+     "text": "run",
+     "start": 37.79,
+     "end": 37.97
+    },
+    {
+     "text": "by",
+     "start": 38.01,
+     "end": 38.15
+    },
+    {
+     "text": "their",
+     "start": 38.19,
+     "end": 38.35
+    },
+    {
+     "text": "own",
+     "start": 38.41,
+     "end": 38.61
+    },
+    {
+     "text": "rules,",
+     "start": 38.65,
+     "end": 39.01
+    },
+    {
+     "text": "and",
+     "start": 39.31,
+     "end": 39.43
+    },
+    {
+     "text": "money",
+     "start": 39.55,
+     "end": 39.85
+    },
+    {
+     "text": "that's",
+     "start": 39.89,
+     "end": 40.09
+    },
+    {
+     "text": "hidden",
+     "start": 40.15,
+     "end": 40.43
+    },
+    {
+     "text": "by",
+     "start": 40.47,
+     "end": 40.61
+    },
+    {
+     "text": "design.",
+     "start": 40.65,
+     "end": 41.21
+    }
+   ],
+   "end": 42.77,
+   "note": "new VO: apps by their own rules + money hidden by design"
+  }
+ ]
+}

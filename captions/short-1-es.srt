@@ -1,0 +1,45 @@
+1
+00:00:00,140 --> 00:00:03,850
+Imagina que tu banco clavara tu estado
+de cuenta en un tablero público.
+
+2
+00:00:04,190 --> 00:00:07,640
+Tu farmacia. Tu renta. Tu sueldo.
+
+3
+00:00:07,790 --> 00:00:11,060
+Cualquiera que pase puede
+leerlo. Para siempre.
+
+4
+00:00:11,560 --> 00:00:12,930
+Eso es Bitcoin.
+
+5
+00:00:13,080 --> 00:00:15,480
+Cada pago queda en un registro público,
+
+6
+00:00:15,520 --> 00:00:19,350
+y un solo pago ligado a tu nombre
+puede descubrir todo lo demás.
+
+7
+00:00:19,830 --> 00:00:24,179
+Todo el mundo puede ver quién
+le envió qué a quién, y cuándo.
+
+8
+00:00:24,909 --> 00:00:30,839
+Monero lo resolvió: remitente oculto,
+monto oculto, direcciones de un solo uso.
+
+9
+00:00:31,369 --> 00:00:35,919
+Tari da el siguiente paso: apps
+que corren sobre una red privada.
+
+10
+00:00:36,009 --> 00:00:37,619
+Se llama Ootle.

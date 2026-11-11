@@ -1,0 +1,15 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>bg</title><style>html,body{margin:0;background:#040723}canvas{display:block}</style></head>
+<body><canvas id="c"></canvas>
+<script src="../lib/v3.js"></script>
+<script>
+// the 2D fields as stills, for the Blender lensing plates (style bible §2.8): ?kind=ink|cloud&v=1 (vertical)
+const Q = new URLSearchParams(location.search), vert = Q.has('v');
+const C = V3.C;
+</script>
+<script src="../acts/common.js"></script>
+<script>
+V3.stage({ w: vert ? 1080 : 1920, h: vert ? 1920 : 1080, total: 1, draw: (ctx) => { const w = vert ? 1080 : 1920, h = vert ? 1920 : 1080;
+  if (Q.get('kind') === 'cloud') fieldCloud(ctx, { w, h }); else fieldInk(ctx, { w, h, pool: [w / 2, vert ? 1340 : 700] }); } });
+</script>
+</body></html>

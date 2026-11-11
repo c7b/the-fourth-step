@@ -1,0 +1,9 @@
+node_modules/
+out/
+renders/
+blend/
+__pycache__/
+*.blend
+*.blend1
+.DS_Store
+plates/usage.jsonl

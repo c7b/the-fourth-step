@@ -1,0 +1,86 @@
+[
+ {
+  "id": "terminal",
+  "output": "raw/terminal.png",
+  "size": "1920x1088",
+  "quality": "medium",
+  "prompt": "A minimal handheld data terminal standing upright, centred, filling about 60% of the frame height. Its body is machined from matte cloud-white anodized aluminium (#ECEEFF) with chamfered edges. A large recessed, perfectly flat, completely black and blank screen fills the upper two thirds of its face; below it, one row of six square tactile keys and one tiny acid-lime (#C9EB00) indicator square. Straight-on front view: the screen faces the camera squarely and appears as an exact rectangle. The device stands on a dark ink-navy (#040723) seamless floor against a near-black ink-navy backdrop. One hard key light from the upper left, a deep crisp shadow falling to the lower right, a thin specular line along the chamfers, the floor falling softly out of focus. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "ledger-wall",
+  "output": "raw/ledger-wall.png",
+  "size": "1920x1088",
+  "quality": "medium",
+  "prompt": "A vast, empty, clean white gallery hall. The far wall faces the camera squarely and fills the frame: a monumental grid of identical rectangular brushed-aluminium plates in cloud white (#ECEEFF), landscape-shaped, about 7 columns by 5 rows visible, bolted flush with thin dark seams between them, every plate blank. Hard low sunlight from the upper left rakes across the wall, casting long crisp diagonal shadows of an unseen window frame across the plates and leaving the upper right in soft shade. Minimalist brutalist architecture with the clarity of a white modernist interior; heavy shadows on bright surfaces; no people, no furniture. Eye-level camera, the central plate exactly in the middle of the frame and sharp, the outer plates slightly soft. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "statement-plate",
+  "output": "raw/statement-plate.png",
+  "size": "1920x1088",
+  "quality": "medium",
+  "prompt": "Close-up of a single rectangular brushed-aluminium plate in cloud white (#ECEEFF), landscape proportions about 3:2, mounted flush on a white plaster wall with four small recessed hex bolts near its corners. The plate faces the camera squarely (its outline is an exact rectangle) and fills about 72% of the frame width, centred. A hard key light from the upper left grazes the surface, revealing fine horizontal brushing and leaving a crisp dark shadow line along the plate's right and lower edges on the wall. The plate face is blank, smooth and empty. The wall around it falls slightly out of focus. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "glass-cube",
+  "output": "raw/glass-cube.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A single cube of thick frosted glass with softly rounded edges, floating in the centre of the frame and occupying about 30% of the frame height, against a pure, flat, deep ink-navy background (#040723) that is empty all around. One cold key light from the upper left: the top face catches a soft bright highlight, the sides fall into darkness, light scatters inside the glass so its core glows a faint steel grey (#67697C). The glass is frosted and diffuse: nothing inside can be seen. A faint soft reflection on an out-of-focus glossy black floor below. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "you-cube",
+  "output": "raw/you-cube.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A single small cube of glossy, slightly translucent acid-lime (#C9EB00) resin with crisp, slightly rounded edges, floating in the centre of the frame and occupying about 26% of the frame height, against a pure, flat, deep ink-navy background (#040723) that is empty all around. One hard key light from the upper left: a bright specular highlight along the top-left edge, the lit faces saturated lime, the shadow face a darker olive green, a faint lime glow bleeding onto an out-of-focus glossy black floor below. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "azure-module",
+  "output": "raw/azure-module.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A small precision-machined module block of anodized aluminium in saturated azure blue (#0939CF), like a compact synthesizer module: a rectangular box with one round input port on its left side, one round output port on its right side, three recessed square buttons on top and one tiny lime (#C9EB00) indicator square. Three-quarter view from slightly above, centred, occupying about 40% of the frame width, standing on a clean cloud-white seamless studio floor (#ECEEFF) with empty white space all around. One hard key light from the upper left, a crisp long shadow to the lower right. Functional minimalism. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials (anodized aluminium, glass, matte synthetic); restrained, believable surface detail; no visual noise. Photographed like a premium product or architecture shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, signage, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "glass-module",
+  "output": "raw/glass-module.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A small precision module block shaped exactly like a compact synthesizer module: a rectangular box with one round input port on its left side, one round output port on its right side, three recessed square buttons on top and one tiny glowing acid-lime (#C9EB00) indicator square. But it is machined entirely from thick FROSTED glass tinted electric violet (#813BF5): translucent, diffuse, its insides invisible, light scattering inside so the core glows violet. Three-quarter view from slightly above, centred, occupying about 42% of the frame width, floating against a pure, flat, deep ink-navy background (#040723) that is empty all around, with a faint violet reflection on an out-of-focus glossy black floor below. One hard key light from the upper left: a bright soft highlight on the top face and the upper-left edges, the right side falling into deep shadow. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "steel-cube",
+  "output": "raw/steel-cube.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A single cube of brushed matte steel-grey aluminium (#67697C) with crisp slightly rounded edges, centred, occupying about 26% of the frame height, three-quarter view from slightly above, standing on a clean cloud-white seamless studio floor (#ECEEFF) with empty white space all around, a crisp shadow falling to the lower right. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light from the upper left, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "gold-coin",
+  "output": "raw/gold-coin.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A single plain polished gold coin with a raised smooth rim and a completely blank, smooth face, standing upright on its edge and turned about 25 degrees toward the camera, centred, occupying about 34% of the frame height, standing on a clean cloud-white seamless studio floor (#ECEEFF) with empty white space all around, a crisp shadow falling to the lower right. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light from the upper left, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "bank-block",
+  "output": "raw/bank-block.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A tall, solemn monolith shaped like a minimal bank vault block: smooth white stone with three shallow vertical grooves on its front face and one thin horizontal slot, seen straight-on, centred, occupying about 60% of the frame height, standing on a clean cloud-white seamless studio floor (#ECEEFF) with empty white space all around, a crisp shadow falling to the lower right. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light from the upper left, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "glass-note",
+  "output": "raw/glass-note.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A thin rectangular pane of frosted glass with softly rounded corners, exactly the proportions of a banknote (about 2.2:1), standing upright and facing the camera squarely, centred, occupying about 60% of the frame width; the glass is milky and diffuse, its surface blank, light scattering inside so its edges glow faintly steel grey, floating against a pure, flat, deep ink-navy background (#040723) that is empty all around, a faint soft reflection on an out-of-focus glossy black floor below. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light from the upper left, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ },
+ {
+  "id": "view-key",
+  "output": "raw/view-key.png",
+  "size": "1536x1024",
+  "quality": "medium",
+  "prompt": "A single precision-machined key of anodized aluminium in cloud white (#ECEEFF) with a small square acid-lime (#C9EB00) tab on its bow and a clean geometric bit, lying at a slight angle, three-quarter view from above, centred, occupying about 50% of the frame width, floating against a pure, flat, deep ink-navy background (#040723) that is empty all around, a faint soft reflection on an out-of-focus glossy black floor below. Style: graphic realism. Clean simplified forms with real-world proportions and implied functional detail; limited materials; restrained, believable surface detail; no visual noise. Photographed like a premium product shot: exactly ONE hard key light from the upper left, heavy crisp shadows, shallow depth of field, a long lens. Absolutely no text, letters, numbers, symbols, logos or brand marks anywhere in the image."
+ }
+]

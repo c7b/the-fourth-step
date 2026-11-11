@@ -1,0 +1,73 @@
+1
+00:00:00,180 --> 00:00:02,790
+Tu banco te marcó. ¿La razón?
+
+2
+00:00:02,960 --> 00:00:04,230
+Dónde naciste.
+
+3
+00:00:04,630 --> 00:00:07,740
+A los bancos se les pide evaluar
+el riesgo de cada cliente.
+
+4
+00:00:07,990 --> 00:00:10,300
+El país de tu pasaporte cuenta.
+
+5
+00:00:10,630 --> 00:00:13,850
+Bajo las reglas fiscales de EE.
+UU., incluso nacer ahí
+
+6
+00:00:13,890 --> 00:00:16,640
+activa una revisión que
+tienes que resolver tú.
+
+7
+00:00:17,080 --> 00:00:19,730
+En una blockchain pública es peor.
+
+8
+00:00:20,020 --> 00:00:22,180
+Vendes una playera al cliente equivocado,
+
+9
+00:00:22,220 --> 00:00:25,830
+y un software decide que estás
+a un salto de una wallet marcada.
+
+10
+00:00:26,060 --> 00:00:27,850
+Te cierran la cuenta.
+
+11
+00:00:27,900 --> 00:00:29,550
+Te enteras después.
+
+12
+00:00:30,080 --> 00:00:34,100
+Como dijo el Dr. Daniel Kim:
+te lo asignan al nacer,
+
+13
+00:00:34,140 --> 00:00:36,430
+como un accidente de dónde naciste.
+
+14
+00:00:37,120 --> 00:00:39,110
+La privacidad no es un crimen.
+
+15
+00:00:39,160 --> 00:00:41,350
+Es lo que el efectivo siempre te dio.
+
+16
+00:00:41,580 --> 00:00:44,490
+Tari la está integrando
+al dinero programable:
+
+17
+00:00:44,580 --> 00:00:47,590
+sin permisos, programable, privado.

@@ -1,0 +1,13 @@
+{
+  "name": "the-fourth-step",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source of the video \"The Fourth Step\" and its three Shorts: a deterministic canvas renderer, Blender shot scripts and the audio mix.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.12.0"
+  }
+}

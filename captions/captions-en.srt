@@ -1,0 +1,404 @@
+1
+00:00:04,260 --> 00:00:10,050
+This is you. Every time you get paid,
+or pay someone, you leave a trace.
+
+2
+00:00:10,400 --> 00:00:14,470
+This video is about one question:
+who gets to read it?
+
+3
+00:00:16,170 --> 00:00:19,560
+Step one: Bitcoin, 2009.
+
+4
+00:00:20,110 --> 00:00:23,110
+For the first time,
+two strangers could send money
+
+5
+00:00:23,150 --> 00:00:25,860
+over the internet with
+no bank in the middle.
+
+6
+00:00:26,460 --> 00:00:28,820
+Instead of a bank's private records,
+
+7
+00:00:28,860 --> 00:00:34,290
+everyone keeps a copy of one shared
+notebook: who paid whom, and how much.
+
+8
+00:00:35,000 --> 00:00:36,990
+But that notebook is public.
+
+9
+00:00:37,080 --> 00:00:39,520
+Picture your bank pinning
+your monthly statement
+
+10
+00:00:39,560 --> 00:00:43,010
+to a board outside,
+for anyone walking past.
+
+11
+00:00:43,180 --> 00:00:45,140
+Dr. Daniel Kim put it plainly:
+
+12
+00:00:45,180 --> 00:00:50,170
+everybody in the world can see
+who sent what to whom and when.
+
+13
+00:00:51,760 --> 00:00:55,830
+Early explainers called
+Bitcoin anonymous. It isn't.
+
+14
+00:00:55,960 --> 00:00:57,760
+Your name isn't on the board,
+
+15
+00:00:57,800 --> 00:01:02,130
+but one payment tied to your name
+can be enough to unravel the rest.
+
+16
+00:01:03,050 --> 00:01:06,810
+Bitcoin also kept its built-in
+programming language small,
+
+17
+00:01:06,850 --> 00:01:10,700
+on purpose: sturdy,
+but hard to build apps on.
+
+18
+00:01:11,190 --> 00:01:15,740
+So step one gave us money with
+no bank, and a perfect memory.
+
+19
+00:01:18,140 --> 00:01:21,550
+Step two: Ethereum, 2015.
+
+20
+00:01:21,900 --> 00:01:25,410
+What if the shared notebook
+could also run programs?
+
+21
+00:01:25,580 --> 00:01:30,210
+Put money in, the rules run on their
+own, and no clerk can change them.
+
+22
+00:01:30,820 --> 00:01:35,530
+People built exchanges, loans,
+games and savings apps on top.
+
+23
+00:01:35,780 --> 00:01:38,790
+Ethereum proved money can be programmed.
+
+24
+00:01:39,480 --> 00:01:42,650
+But those programs run
+on the same public board.
+
+25
+00:01:42,940 --> 00:01:45,360
+Now it doesn't just show what you paid.
+
+26
+00:01:45,400 --> 00:01:49,030
+It shows which apps you use,
+and everyone you deal with.
+
+27
+00:01:51,050 --> 00:01:52,960
+Here's where it gets personal.
+
+28
+00:01:53,150 --> 00:01:54,820
+Say you sell t-shirts.
+
+29
+00:01:54,910 --> 00:01:56,440
+A customer pays you.
+
+30
+00:01:56,690 --> 00:01:58,370
+You don't know that months ago,
+
+31
+00:01:58,410 --> 00:02:01,700
+their coins passed near
+a wallet that someone flagged.
+
+32
+00:02:01,970 --> 00:02:05,100
+Software that watches the
+board connects the dots.
+
+33
+00:02:06,700 --> 00:02:09,390
+To the software, you're one hop away.
+
+34
+00:02:09,560 --> 00:02:11,650
+That's a guess, not proof.
+
+35
+00:02:11,860 --> 00:02:17,510
+But you find out afterwards: your account
+is closed, your bank freezes your funds.
+
+36
+00:02:17,660 --> 00:02:21,470
+It had nothing to do with anything
+that the person in question did.
+
+37
+00:02:22,360 --> 00:02:24,930
+And it's not just
+payments that get scored.
+
+38
+00:02:25,120 --> 00:02:28,120
+Banks are told to rate
+every customer for risk,
+
+39
+00:02:28,160 --> 00:02:31,230
+and your passport's country
+is part of that score.
+
+40
+00:02:31,500 --> 00:02:35,070
+Sometimes even where you were
+born, which you never chose.
+
+41
+00:02:35,280 --> 00:02:38,350
+When everything is watched,
+the default flips:
+
+42
+00:02:38,400 --> 00:02:41,190
+you're guilty until you
+prove you're innocent.
+
+43
+00:02:46,020 --> 00:02:50,310
+Now rewind to 2014,
+a year before Ethereum.
+
+44
+00:02:50,600 --> 00:02:53,490
+Monero took a different
+road out of Bitcoin:
+
+45
+00:02:53,760 --> 00:02:57,970
+make the money itself private,
+for everyone, by default.
+
+46
+00:02:58,770 --> 00:03:02,410
+When you pay, your payment
+hides in a crowd of decoys,
+
+47
+00:03:02,450 --> 00:03:04,880
+so nobody can tell which one is you.
+
+48
+00:03:05,030 --> 00:03:06,580
+The amount is hidden.
+
+49
+00:03:06,770 --> 00:03:10,380
+And the person you pay gets
+a fresh, one-time address.
+
+50
+00:03:11,380 --> 00:03:15,370
+Picture a banknote with every
+past owner listed on the back.
+
+51
+00:03:15,560 --> 00:03:19,390
+Monero wipes the list:
+money with no memory.
+
+52
+00:03:20,590 --> 00:03:23,940
+Isn't privacy just for criminals? No.
+
+53
+00:03:24,090 --> 00:03:29,080
+Privacy protects the shop owner,
+the nurse, the person sending money home.
+
+54
+00:03:30,100 --> 00:03:34,930
+But Monero is built for one job:
+private money, not apps.
+
+55
+00:03:35,160 --> 00:03:39,590
+So now there are two roads:
+one programmable, one private.
+
+56
+00:03:41,260 --> 00:03:46,170
+Step four is where the roads meet:
+programs that run on a private network.
+
+57
+00:03:46,300 --> 00:03:47,510
+That's Tari.
+
+58
+00:03:50,100 --> 00:03:51,970
+Tari has two layers.
+
+59
+00:03:52,060 --> 00:03:55,230
+The base layer holds a coin called XTM.
+
+60
+00:03:55,440 --> 00:03:58,220
+Miners keep it safe, and Monero miners can
+
+61
+00:03:58,260 --> 00:04:01,330
+secure it at the same time,
+with the same work.
+
+62
+00:04:02,130 --> 00:04:05,720
+On top sits the Ootle,
+Tari's layer for apps.
+
+63
+00:04:06,850 --> 00:04:11,880
+The Ootle's own coin, also
+called TARI, is hidden by design:
+
+64
+00:04:12,170 --> 00:04:14,990
+no one else can see the
+amount or the owner,
+
+65
+00:04:15,030 --> 00:04:18,200
+and every payment lands
+at a one-time address.
+
+66
+00:04:18,450 --> 00:04:22,230
+The network can still check that
+nobody made money out of thin air,
+
+67
+00:04:22,270 --> 00:04:23,960
+without seeing the numbers.
+
+68
+00:04:24,970 --> 00:04:28,020
+Builders choose how private each asset is.
+
+69
+00:04:28,270 --> 00:04:32,360
+And a view key is a read-only key
+you can hand to an accountant:
+
+70
+00:04:32,490 --> 00:04:34,940
+they can see, but they can't spend.
+
+71
+00:04:35,710 --> 00:04:39,770
+To move in, you burn XTM
+on the base layer and claim
+
+72
+00:04:39,810 --> 00:04:43,840
+the same amount of TARI on the
+Ootle, minus a small fee.
+
+73
+00:04:44,110 --> 00:04:45,500
+A one-way door.
+
+74
+00:04:46,310 --> 00:04:50,650
+An app on the Ootle runs by its
+own rules, like on Ethereum,
+
+75
+00:04:50,690 --> 00:04:54,320
+and the money it moves can
+stay hidden, like on Monero.
+
+76
+00:04:54,610 --> 00:04:56,810
+Teams of computers check the work,
+
+77
+00:04:56,850 --> 00:05:00,320
+and each team looks after
+its own piece of the records.
+
+78
+00:05:00,630 --> 00:05:04,900
+Anyone can see that money moved,
+but not how much, or whose.
+
+79
+00:05:05,700 --> 00:05:07,010
+It's not magic.
+
+80
+00:05:07,080 --> 00:05:11,650
+Fees are public, and anything
+a builder makes public stays public.
+
+81
+00:05:11,800 --> 00:05:16,130
+Privacy is a choice, and Tari
+builds it into the foundations.
+
+82
+00:05:17,830 --> 00:05:19,140
+Remember the flag?
+
+83
+00:05:19,310 --> 00:05:23,040
+It worked because a stranger's
+software could read your history.
+
+84
+00:05:23,250 --> 00:05:26,360
+On a private network,
+there's no board to read.
+
+85
+00:05:26,410 --> 00:05:31,380
+The network itself doesn't ask for your
+passport, and no one has to approve you.
+
+86
+00:05:31,490 --> 00:05:33,580
+Your business stays yours.
+
+87
+00:05:34,600 --> 00:05:36,570
+Step four starts now.

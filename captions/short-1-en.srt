@@ -1,0 +1,44 @@
+1
+00:00:00,140 --> 00:00:03,850
+Imagine your bank pinned your
+statement to a public board.
+
+2
+00:00:04,190 --> 00:00:07,640
+Your pharmacy. Your rent. Your salary.
+
+3
+00:00:07,790 --> 00:00:11,060
+Anyone walking past can read it. Forever.
+
+4
+00:00:11,560 --> 00:00:12,930
+That's Bitcoin.
+
+5
+00:00:13,080 --> 00:00:15,480
+Every payment sits on a public ledger,
+
+6
+00:00:15,520 --> 00:00:19,350
+and one payment tied to your
+name can unravel the rest.
+
+7
+00:00:19,830 --> 00:00:24,179
+Everybody in the world can see
+who sent what to whom and when.
+
+8
+00:00:24,909 --> 00:00:30,839
+Monero fixed that for money: hidden
+sender, hidden amount, one-time addresses.
+
+9
+00:00:31,369 --> 00:00:35,919
+Tari takes the next step: apps
+that run on a private network.
+
+10
+00:00:36,009 --> 00:00:37,619
+It's called the Ootle.

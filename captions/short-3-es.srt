@@ -1,0 +1,54 @@
+1
+00:00:00,150 --> 00:00:03,160
+No tienen memoria de dónde han estado,
+
+2
+00:00:03,330 --> 00:00:06,160
+y eso es justo lo que
+quieres en el dinero.
+
+3
+00:00:06,570 --> 00:00:11,800
+Ese es el Dr. Daniel Kim, en 2019,
+hablando de las monedas de Monero.
+
+4
+00:00:12,170 --> 00:00:16,640
+Bitcoin es como un billete con todos sus
+dueños anteriores escritos al reverso.
+
+5
+00:00:16,750 --> 00:00:18,920
+Cualquiera puede rastrear dónde ha estado.
+
+6
+00:00:19,380 --> 00:00:21,410
+Monero borra la lista.
+
+7
+00:00:21,580 --> 00:00:25,220
+Tu pago se esconde entre señuelos,
+el monto queda oculto,
+
+8
+00:00:25,260 --> 00:00:27,890
+y quien recibe obtiene una
+dirección de un solo uso.
+
+9
+00:00:28,140 --> 00:00:29,830
+Dinero sin memoria.
+
+10
+00:00:30,340 --> 00:00:34,390
+El detalle: Monero está hecho
+para dinero, no para apps.
+
+11
+00:00:34,890 --> 00:00:39,190
+El Ootle de Tari va por las dos:
+apps que siguen sus propias reglas,
+
+12
+00:00:39,230 --> 00:00:41,560
+y dinero oculto por diseño.

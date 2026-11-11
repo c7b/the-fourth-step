@@ -1,0 +1,488 @@
+{
+ "piece": "s1",
+ "version": "v4",
+ "fps": 30,
+ "total": 38.9,
+ "voice": "George",
+ "went": false,
+ "notes": [
+  "unchanged from v3 (same clips, same timing)"
+ ],
+ "beats": [
+  {
+   "id": "S1A",
+   "start": 0,
+   "vo": "s1a",
+   "voStart": 0.15,
+   "voEnd": 3.66,
+   "words": [
+    {
+     "text": "Imagine",
+     "start": 0.22,
+     "end": 0.62
+    },
+    {
+     "text": "your",
+     "start": 0.68,
+     "end": 0.78
+    },
+    {
+     "text": "bank",
+     "start": 0.94,
+     "end": 1.22
+    },
+    {
+     "text": "pinned",
+     "start": 1.4,
+     "end": 1.64
+    },
+    {
+     "text": "your",
+     "start": 1.68,
+     "end": 1.84
+    },
+    {
+     "text": "statement",
+     "start": 1.96,
+     "end": 2.4
+    },
+    {
+     "text": "to",
+     "start": 2.44,
+     "end": 2.52
+    },
+    {
+     "text": "a",
+     "start": 2.58,
+     "end": 2.64
+    },
+    {
+     "text": "public",
+     "start": 2.7,
+     "end": 3
+    },
+    {
+     "text": "board.",
+     "start": 3.12,
+     "end": 3.5
+    }
+   ],
+   "end": 4.01
+  },
+  {
+   "id": "S1B",
+   "start": 4.01,
+   "vo": "s1b",
+   "voStart": 4.16,
+   "voEnd": 10.87,
+   "words": [
+    {
+     "text": "Your",
+     "start": 4.27,
+     "end": 4.35
+    },
+    {
+     "text": "pharmacy.",
+     "start": 4.47,
+     "end": 5.05
+    },
+    {
+     "text": "Your",
+     "start": 5.51,
+     "end": 5.61
+    },
+    {
+     "text": "rent.",
+     "start": 5.73,
+     "end": 6.05
+    },
+    {
+     "text": "Your",
+     "start": 6.57,
+     "end": 6.65
+    },
+    {
+     "text": "salary.",
+     "start": 6.81,
+     "end": 7.29
+    },
+    {
+     "text": "Anyone",
+     "start": 7.87,
+     "end": 8.19
+    },
+    {
+     "text": "walking",
+     "start": 8.29,
+     "end": 8.57
+    },
+    {
+     "text": "past",
+     "start": 8.71,
+     "end": 9.07
+    },
+    {
+     "text": "can",
+     "start": 9.11,
+     "end": 9.27
+    },
+    {
+     "text": "read",
+     "start": 9.33,
+     "end": 9.53
+    },
+    {
+     "text": "it.",
+     "start": 9.59,
+     "end": 9.71
+    },
+    {
+     "text": "Forever.",
+     "start": 10.19,
+     "end": 10.71
+    }
+   ],
+   "end": 11.27
+  },
+  {
+   "id": "S1C",
+   "start": 11.27,
+   "vo": "s1c",
+   "voStart": 11.52,
+   "voEnd": 19.16,
+   "words": [
+    {
+     "text": "That's",
+     "start": 11.64,
+     "end": 11.88
+    },
+    {
+     "text": "Bitcoin.",
+     "start": 12,
+     "end": 12.58
+    },
+    {
+     "text": "Every",
+     "start": 13.16,
+     "end": 13.36
+    },
+    {
+     "text": "payment",
+     "start": 13.48,
+     "end": 13.8
+    },
+    {
+     "text": "sits",
+     "start": 13.92,
+     "end": 14.2
+    },
+    {
+     "text": "on",
+     "start": 14.24,
+     "end": 14.3
+    },
+    {
+     "text": "a",
+     "start": 14.34,
+     "end": 14.42
+    },
+    {
+     "text": "public",
+     "start": 14.48,
+     "end": 14.8
+    },
+    {
+     "text": "ledger,",
+     "start": 14.9,
+     "end": 15.26
+    },
+    {
+     "text": "and",
+     "start": 15.6,
+     "end": 15.74
+    },
+    {
+     "text": "one",
+     "start": 15.8,
+     "end": 15.94
+    },
+    {
+     "text": "payment",
+     "start": 16.04,
+     "end": 16.42
+    },
+    {
+     "text": "tied",
+     "start": 16.48,
+     "end": 16.72
+    },
+    {
+     "text": "to",
+     "start": 16.78,
+     "end": 16.9
+    },
+    {
+     "text": "your",
+     "start": 16.94,
+     "end": 17.08
+    },
+    {
+     "text": "name",
+     "start": 17.2,
+     "end": 17.5
+    },
+    {
+     "text": "can",
+     "start": 17.66,
+     "end": 17.82
+    },
+    {
+     "text": "unravel",
+     "start": 17.9,
+     "end": 18.42
+    },
+    {
+     "text": "the",
+     "start": 18.46,
+     "end": 18.54
+    },
+    {
+     "text": "rest.",
+     "start": 18.6,
+     "end": 19
+    }
+   ],
+   "end": 19.56
+  },
+  {
+   "id": "S1D",
+   "start": 19.56,
+   "vo": "s1d",
+   "voStart": 19.81,
+   "voEnd": 23.989,
+   "words": [
+    {
+     "text": "Everybody",
+     "start": 19.91,
+     "end": 20.35
+    },
+    {
+     "text": "in",
+     "start": 20.39,
+     "end": 20.47
+    },
+    {
+     "text": "the",
+     "start": 20.51,
+     "end": 20.61
+    },
+    {
+     "text": "world",
+     "start": 20.67,
+     "end": 20.99
+    },
+    {
+     "text": "can",
+     "start": 21.07,
+     "end": 21.25
+    },
+    {
+     "text": "see",
+     "start": 21.33,
+     "end": 21.53
+    },
+    {
+     "text": "who",
+     "start": 21.59,
+     "end": 21.75
+    },
+    {
+     "text": "sent",
+     "start": 21.81,
+     "end": 22.07
+    },
+    {
+     "text": "what",
+     "start": 22.13,
+     "end": 22.51
+    },
+    {
+     "text": "to",
+     "start": 22.57,
+     "end": 22.67
+    },
+    {
+     "text": "whom",
+     "start": 22.75,
+     "end": 23.07
+    },
+    {
+     "text": "and",
+     "start": 23.29,
+     "end": 23.45
+    },
+    {
+     "text": "when.",
+     "start": 23.51,
+     "end": 23.829
+    }
+   ],
+   "end": 24.589
+  },
+  {
+   "id": "S1E",
+   "start": 24.589,
+   "vo": "s1e",
+   "voStart": 24.889,
+   "voEnd": 30.679,
+   "words": [
+    {
+     "text": "Monero",
+     "start": 24.989,
+     "end": 25.449
+    },
+    {
+     "text": "fixed",
+     "start": 25.609,
+     "end": 25.869
+    },
+    {
+     "text": "that",
+     "start": 25.929,
+     "end": 26.129
+    },
+    {
+     "text": "for",
+     "start": 26.169,
+     "end": 26.289
+    },
+    {
+     "text": "money:",
+     "start": 26.349,
+     "end": 26.689
+    },
+    {
+     "text": "hidden",
+     "start": 27.209,
+     "end": 27.429
+    },
+    {
+     "text": "sender,",
+     "start": 27.569,
+     "end": 27.929
+    },
+    {
+     "text": "hidden",
+     "start": 28.269,
+     "end": 28.509
+    },
+    {
+     "text": "amount,",
+     "start": 28.569,
+     "end": 28.929
+    },
+    {
+     "text": "one-time",
+     "start": 29.409,
+     "end": 29.869
+    },
+    {
+     "text": "addresses.",
+     "start": 29.909,
+     "end": 30.489
+    }
+   ],
+   "end": 31.079
+  },
+  {
+   "id": "S1F",
+   "start": 31.079,
+   "vo": "s1f",
+   "voStart": 31.379,
+   "voEnd": 37.479,
+   "words": [
+    {
+     "text": "Tari",
+     "start": 31.449,
+     "end": 31.789
+    },
+    {
+     "text": "takes",
+     "start": 31.849,
+     "end": 32.129
+    },
+    {
+     "text": "the",
+     "start": 32.169,
+     "end": 32.269
+    },
+    {
+     "text": "next",
+     "start": 32.329,
+     "end": 32.569
+    },
+    {
+     "text": "step:",
+     "start": 32.649,
+     "end": 32.949
+    },
+    {
+     "text": "apps",
+     "start": 33.549,
+     "end": 33.809
+    },
+    {
+     "text": "that",
+     "start": 33.849,
+     "end": 34.009
+    },
+    {
+     "text": "run",
+     "start": 34.049,
+     "end": 34.309
+    },
+    {
+     "text": "on",
+     "start": 34.349,
+     "end": 34.429
+    },
+    {
+     "text": "a",
+     "start": 34.469,
+     "end": 34.569
+    },
+    {
+     "text": "private",
+     "start": 34.609,
+     "end": 34.969
+    },
+    {
+     "text": "network.",
+     "start": 35.049,
+     "end": 35.569
+    },
+    {
+     "text": "It's",
+     "start": 36.089,
+     "end": 36.249
+    },
+    {
+     "text": "called",
+     "start": 36.309,
+     "end": 36.689
+    },
+    {
+     "text": "the",
+     "start": 36.749,
+     "end": 36.869
+    },
+    {
+     "text": "Ootle.",
+     "start": 36.949,
+     "end": 37.269
+    }
+   ],
+   "end": 38.879
+  }
+ ]
+}

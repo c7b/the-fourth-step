@@ -1,0 +1,52 @@
+1
+00:00:00,150 --> 00:00:03,160
+They have no memory of where they've been,
+
+2
+00:00:03,330 --> 00:00:06,160
+which is really what you want in a money.
+
+3
+00:00:06,570 --> 00:00:11,800
+That's Dr. Daniel Kim, in 2019,
+talking about Monero coins.
+
+4
+00:00:12,170 --> 00:00:16,640
+Bitcoin is like a banknote with
+every past owner written on the back.
+
+5
+00:00:16,750 --> 00:00:18,920
+Anyone can trace where it's been.
+
+6
+00:00:19,380 --> 00:00:21,410
+Monero wipes the list.
+
+7
+00:00:21,580 --> 00:00:25,220
+Your payment hides among decoys,
+the amount is hidden,
+
+8
+00:00:25,260 --> 00:00:27,890
+and the receiver gets a one-time address.
+
+9
+00:00:28,140 --> 00:00:29,830
+Money with no memory.
+
+10
+00:00:30,340 --> 00:00:34,390
+The catch: Monero is built
+for money, not apps.
+
+11
+00:00:34,890 --> 00:00:39,190
+Tari's Ootle goes for both:
+apps that run by their own rules,
+
+12
+00:00:39,230 --> 00:00:41,560
+and money that's hidden by design.

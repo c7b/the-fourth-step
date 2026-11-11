@@ -1,0 +1,72 @@
+1
+00:00:00,180 --> 00:00:02,790
+Your bank flagged you. The reason?
+
+2
+00:00:02,960 --> 00:00:04,230
+Where you were born.
+
+3
+00:00:04,630 --> 00:00:07,740
+Banks are told to score
+every customer for risk.
+
+4
+00:00:07,990 --> 00:00:10,300
+The country on your passport counts.
+
+5
+00:00:10,630 --> 00:00:13,850
+Under US tax rules, even a US birthplace
+
+6
+00:00:13,890 --> 00:00:16,640
+triggers a review you
+have to clear yourself.
+
+7
+00:00:17,080 --> 00:00:19,730
+On a public blockchain it gets worse.
+
+8
+00:00:20,020 --> 00:00:22,180
+Sell a t-shirt to the wrong customer,
+
+9
+00:00:22,220 --> 00:00:25,830
+and software decides you're
+one hop from a flagged wallet.
+
+10
+00:00:26,060 --> 00:00:27,850
+Your account gets closed.
+
+11
+00:00:27,900 --> 00:00:29,550
+You find out after.
+
+12
+00:00:30,080 --> 00:00:34,100
+As Dr. Daniel Kim put it:
+it gets told to you at birth,
+
+13
+00:00:34,140 --> 00:00:36,430
+as an accident of where you were born.
+
+14
+00:00:37,120 --> 00:00:39,110
+Privacy isn't a crime.
+
+15
+00:00:39,160 --> 00:00:41,350
+It's what cash always gave you.
+
+16
+00:00:41,580 --> 00:00:44,490
+Tari is building it into
+programmable money:
+
+17
+00:00:44,580 --> 00:00:47,590
+permissionless, programmable, private.
